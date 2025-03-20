@@ -1,0 +1,28 @@
+Thank you for purchasing the MEAP edition of Build a Large Language
+Model (From Scratch).
+In this book, I invite you to embark on an educational journey with me to
+learn how to build Large Language Models (LLMs) from the ground up.
+Together, we'll delve deep into the LLM training pipeline, starting from data
+loading and culminating in finetuning LLMs on custom datasets.
+For many years, I've been deeply immersed in the world of deep learning,
+coding LLMs, and have found great joy in explaining complex concepts
+thoroughly. This book has been a long-standing idea in my mind, and I'm
+thrilled to finally have the opportunity to write it and share it with you. Those
+of you familiar with my work, especially from my blog, have likely seen
+glimpses of my approach to coding from scratch. This method has resonated
+well with many readers, and I hope it will be equally effective for you.
+I've designed the book to emphasize hands-on learning, primarily using
+PyTorch and without relying on pre-existing libraries. With this approach,
+coupled with numerous figures and illustrations, I aim to provide you with a
+thorough understanding of how LLMs work, their limitations, and
+customization methods. Moreover, we'll explore commonly used workflows
+and paradigms in pretraining and fine-tuning LLMs, offering insights into
+their development and customization.
+The book is structured with detailed step-by-step introductions, ensuring no
+critical detail is overlooked. To gain the most from this book, you should
+have a background in Python programming. Prior experience in deep learning
+and a foundational understanding of PyTorch, or familiarity with other deep
+learning frameworks like TensorFlow, will be beneficial.
+I warmly invite you to engage in the liveBook discussion forum for any
+questions, suggestions, or feedback you might have. Your contributions are
+immensely valuable and appreciated in enhancing this learning journey.
